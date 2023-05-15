@@ -1,1 +1,26 @@
-body {background:#AEBBB4;}
+body {
+  text-align:center ;
+  color: black;
+}
+p{ 
+  background-color: green;
+  padding-top:30px; 
+  padding-left:60px; 
+  padding-right:60px; 
+  padding-bottom:30px; 
+  margin-top:30px; 
+  margin-left:500px; 
+  margin-right:500px; 
+  margin-bottom:30px; 
+  border: 50px solid 006660; 
+}
+h1 {
+  font-size:39pt ;
+  text-align:center ;
+  color: #ff6600;
+}
+
+img {
+  display: block;
+  margin: 100 auto;
+}
