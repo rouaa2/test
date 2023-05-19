@@ -2,7 +2,13 @@ body {
   text-align:center ;
   color: black;
 }
-
+.video-back{ 
+  position:fixed;
+top:0;   
+left:0;
+min-width:100%;
+min-height:100%;
+}
 p{ 
   background-color: green;
   padding-top:30px; 
