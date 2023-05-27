@@ -19,7 +19,7 @@ div{
 h1{
   font-size:39pt ;
   text-align:center ;
-  color: #ff5500;
+  color: #ff5599;
 }
 
 img {
@@ -44,5 +44,5 @@ top:0;
 left:0;
 min-width:100%;
 min-height:100%;
-z-index:-2; 
+z-index:-2;  
 }
