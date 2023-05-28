@@ -21,6 +21,11 @@ h1{
   text-align:center ;
   color: #ff5599;
 }
+h2{
+  font-size:99pt ;
+  text-align:center ;
+  color: #775599;
+}
 
 img {
   display: block;
